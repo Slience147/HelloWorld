@@ -1,2 +1,3 @@
 # HelloWorld
-just a project
+只是一个项目
+不要因为走得远，就忘了为何出发。
